@@ -8,7 +8,7 @@ Introduz os conceitos fundamentais de entrada e saída de dados em linguagem C, 
 
 Os exercícios envolvem:
 
-- Declaração e uso de variáveis (tipos int, float, double)
+- Declaração e uso de variáveis (int, float, double)
 - Especificadores de formato (%d, %f, %lf)
 - Leitura de dados com scanf (um valor)
 - Cálculos simples com dados lidos do usuário
