@@ -49,7 +49,7 @@ Os exercícios envolvem:
 
 ### [Lista 5](./exercicios_5)
 
-Aprofundar ainda mais os conceitos das estruturas de decisão if, else e switch exercitados nas listas anteriores, explorando o conceito de níveis de entradas e aninhamento de estruturas condicionais em linguagem C.
+Aprofunda ainda mais os conceitos das estruturas de decisão if, else e switch exercitados nas listas anteriores, explorando o conceito de níveis de entradas e aninhamento de estruturas condicionais em linguagem C.
 
 Os exercícios envolvem:
 
@@ -59,7 +59,7 @@ Os exercícios envolvem:
 
 ### [Lista 6](./exercicios_6)
 
-Tem como objetivo introduzir o conceito de laços de repetição com o uso de while e do-while e explorar situações que exigem múltiplos níveis de entrada e aninhamento de condições.
+Introduzir o conceito de laços de repetição com o uso de while e do-while e explorar situações que exigem múltiplos níveis de entrada e aninhamento de condições.
 
 Os exercícios envolvem:
 
