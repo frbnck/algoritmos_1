@@ -38,7 +38,7 @@ Os exercícios envolvem:
 
 ### [Lista 3](./exercicios_3) e [Lista 4](./exercicios_4)
 
-Introduz o uso da variável char e aprofunda os conceitos de operadores relacionais e lógicos e das estruturas de decisão if, else e switch em linguagem C estabelecidos na lista anterior.
+Introduzem o uso da variável char e aprofundam os conceitos de operadores relacionais e lógicos e das estruturas de decisão if, else e switch em linguagem C estabelecidos na lista anterior.
 
 Os exercícios envolvem:
 
@@ -59,7 +59,7 @@ Os exercícios envolvem:
 
 ### [Lista 6](./exercicios_6)
 
-Introduzir o conceito de laços de repetição com o uso de while e do-while e explorar situações que exigem múltiplos níveis de entrada e aninhamento de condições.
+Introduz o conceito de laços de repetição com o uso de while e do-while e explorar situações que exigem múltiplos níveis de entrada e aninhamento de condições.
 
 Os exercícios envolvem:
 
