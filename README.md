@@ -59,7 +59,7 @@ Os exercícios envolvem:
 
 ### [Lista 6](./exercicios_6)
 
-Introduz o conceito de laços de repetição com o uso de while e do-while e explorar situações que exigem múltiplos níveis de entrada e aninhamento de condições.
+Introduz o conceito de laços de repetição com o uso de while e do-while e explora situações que exigem múltiplos níveis de entrada e aninhamento de condições.
 
 Os exercícios envolvem:
 
